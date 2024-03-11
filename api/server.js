@@ -19,7 +19,7 @@ const users = [
     position: "System Analyst"
   },
   {
-    firstName: "์Natchaphon",
+    firstName: "Natchaphon",
     lastName: "Panasantikun",
     email: "natchaphon_pa64@gmail.com",
     position: "Developer"
